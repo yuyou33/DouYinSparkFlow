@@ -1,17 +1,14 @@
-  1 {
-2     "multiTask": true,
-  1   "taskCount": 5,
-  2   "proxyAddress": "",
-  3   "messageTemplate": "[太阳]",
-  4   "hitokotoTypes": [
-  5     "文学",
-  6     "影视",
-  7     "诗词",
-  8     "哲学"
-  9   ],
- 10   "happyNewYear": {
- 11       "enabled": false,
- 12       "messageTemplate": ""
- 13   }
- 14 }
-
+{
+  "multiTask": true,
+  "taskCount": 5,
+  "proxyAddress": "",
+  "messageTemplate": "[太阳]",
+  "hitokotoTypes": [
+    "文学",
+    "影视",
+    "诗词",
+    "哲学"
+  ],
+  "happyNewYear": {
+      "enabled": false,
+      "messageTemplate": ""
